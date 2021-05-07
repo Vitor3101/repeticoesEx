@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\3.exe
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\3.deps.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\3.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\3.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\ref\3.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\bin\Debug\net5.0\3.pdb
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\ref\3.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.pdb
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# 04.05 Estrutura de Repetição\Exercicios\3\obj\Debug\net5.0\3.genruntimeconfig.cache
